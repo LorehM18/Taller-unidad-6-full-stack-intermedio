@@ -2,7 +2,7 @@
 <form method="post">
     <h2>Calcular si es mayor de edad</h2>
         <div>
-           <label for="age">Edad</label>
+           <label for="ages">Edad</label>
            <input 
            id="age"
            type="text"

@@ -1,6 +1,7 @@
 <?php
 $message="";
-$ages=(($_POST["age"]));
+
+$ages=$_POST["age"];
 
 
 if($ages>=18){
