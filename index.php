@@ -49,10 +49,18 @@
         </li>
         <li>
           <p>
-            Punto 5 6 7: Proyecto conexión Base de datos
+            Punto 5 6: Proyecto conexión Base de datos
           </p>
-          <a href="./punto 5-6-7">
+          <a href="./punto 5-6">
             Base de datos  
+          </a>
+        </li>
+        <li>
+          <p>
+            Punto 7: Filtro Base de datos
+          </p>
+          <a href="./punto 7">
+            Filtro Base de datos  
           </a>
         </li>
       </ul>
